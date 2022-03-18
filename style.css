@@ -1,0 +1,26 @@
+*{
+   margin:auto;
+   padding:0;
+   box-sizing: border-box;
+   font-family: 'Tahoma';
+}
+.card{  
+    position: relative;
+    top: 29vh;
+    text-align: center;
+    background-image: linear-gradient(360deg,rgb(219, 219, 219),rgb(238, 238, 238));
+    width: 600px;
+    height: 200px;
+    border-radius: 20px;
+}
+.button{
+    margin-top: 30px;
+    border: tomato 2px solid;
+    width:100px;
+    height: 50px;
+    text-align: center;
+    padding:10px;
+    transform: skew(-20deg);  
+    color: tomato;
+
+}
